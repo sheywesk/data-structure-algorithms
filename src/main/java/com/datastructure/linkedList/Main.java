@@ -1,4 +1,4 @@
-package com.datastructure;
+package com.datastructure.linkedList;
 
 import com.datastructure.linkedList.LinkedList;
 
